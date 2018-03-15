@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/**/*
+
+
+constants/config.json
+
+app.json
